@@ -1,0 +1,8 @@
+com\nttdata\screens\ProductsScreen.class
+com\nttdata\stepsdefinitions\LoginStepsDefs.class
+com\nttdata\steps\LoginSteps.class
+com\nttdata\screens\LoginScreen.class
+com\nttdata\steps\LoginDemoSteps.class
+com\nttdata\stepsdefinitions\LoginDemoStepsDefs.class
+com\nttdata\screens\LoginDemoScreen.class
+com\nttdata\runners\CucumberTestSuite.class
